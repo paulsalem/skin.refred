@@ -33,7 +33,7 @@
 			<control type="rss" id="1">
 				<top>690</top>
 				<width>1280</width>			  
-				<font>font12</font>
+				<font>regular_Big-U</font>
 				<textcolor>Color3</textcolor>
 				<headlinecolor>Color3</headlinecolor>
 				<titlecolor>Color2</titlecolor>
